@@ -2,7 +2,7 @@
 
 ### 1) Choose chanel in Teams;
 ### 2) Click on "More options";
-![](screnshots/1-man-web-hook.png)
+![](screenshots/1-man-web-hook.png)
 ### 3) Choose "Connectors";
 ### 4) Find "Incoming WebHook" from list of connectors and click "Add"/"Configure";
 ### 5) Set name for webhook;
